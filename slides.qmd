@@ -1,0 +1,52 @@
+---
+title: "OS Guidance"
+author: "PHUSE CSS 2022 update"
+format:
+  revealjs: 
+    theme: sky
+    logo: logo.png
+    footer: "PHUSE CSS 2022"
+editor: visual
+---
+
+## Working group goals
+
+> Provide guidance and collate references on;
+>
+> 1.  The use of Open Source Software (OSS)
+> 2.  Releasing OSS
+> 3.  Co-creating and governing OSS
+
+With a focus on R packages as the motivating example of the types of OSS relevant to the PHUSE community.
+
+## Dissemination
+
+1. A PHUSE working group white paper
+1. Content mapped to an online HTML git book, for iterative improvement as this field rapidly evolves
+
+## Status today
+
+:::: {.columns}
+
+::: {.column width="40%"}
+![](toc.png)
+:::
+
+::: {.column width="60%"}
+- First internal draft under review
+
+- Our WG spans 6 companies experiences to date
+
+- Contributions from others in the PHUSE community before we release the working paper would be valued
+:::
+
+::::
+
+## Key discussion points
+
+- Why do we as an industry have a tendency to focus on home grown solutions?
+- How important is governance of an open source project?
+- When do we need (or don't need) contracts when collaborating?
+- When to release a package?
+- How do we build a community/get external contributions?
+- What are the key concerns /learnings from the PHUSE community either using, releasing or co-creating R/Python packages or even SAS macros?

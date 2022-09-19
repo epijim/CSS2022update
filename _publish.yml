@@ -1,0 +1,4 @@
+- source: slides.qmd
+  quarto-pub:
+    - id: 719b0915-a7b8-41c9-9352-1b98d620dd1c
+      url: 'https://quartopub.com/sites/epijim/os-guidance'
