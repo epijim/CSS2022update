@@ -42,7 +42,7 @@ With a focus on R packages as the motivating example of the types of OSS relevan
 
 ::::
 
-## Key discussion points
+## Key discussion points {.smaller}
 
 - Why do we as an industry have a tendency to focus on home grown solutions?
 - How important is governance of an open source project?
